@@ -1,0 +1,4 @@
+comparing
+>= aSemVer 
+
+	^ aSemVer <= self

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SemanticVersion",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"major",
+		"minor",
+		"patch",
+		"preRelease",
+		"build"
+	],
+	"name" : "SemanticVersion",
+	"type" : "normal"
+}

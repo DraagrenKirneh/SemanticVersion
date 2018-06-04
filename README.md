@@ -5,4 +5,11 @@ This library implements version 2.0.0 of the semantic version specification foun
 
 # Installation
 
+```smalltalk
+Metacello new
+   baseline: 'SemanticVersion';
+   repository: 'github://DraagrenKirneh/SemanticVersion';
+   load.
+```
+
 # Usage 

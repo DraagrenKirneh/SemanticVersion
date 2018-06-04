@@ -13,3 +13,9 @@ Metacello new
 ```
 
 # Usage 
+
+```
+    '1.2.3' asSemanticVersion < '1.2.4' asSemanticVersion 
+        ifTrue:  [ "..." ]
+        ifFalse: [ "..." ]
+```

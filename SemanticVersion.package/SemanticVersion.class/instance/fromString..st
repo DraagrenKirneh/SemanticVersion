@@ -21,7 +21,7 @@ fromString: aString
 			each first isDigit 
 				ifTrue: [ each asNumber ]	
 				ifFalse: [ each ]
-		].
+		] as: Array.
 		build := reader upToEnd.
 		^ self	
 	].

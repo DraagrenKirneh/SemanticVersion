@@ -5,12 +5,13 @@
 		"=" : "HenrikNergaard 6/3/2018 20:29",
 		">" : "HenrikNergaard 6/3/2018 20:45",
 		">=" : "HenrikNergaard 6/3/2018 23:17",
+		"asSemanticVersion" : "HenrikNergaard 6/4/2018 22:44",
 		"asString" : "HenrikNergaard 6/3/2018 20:01",
 		"between:and:" : "HenrikNergaard 6/3/2018 23:17",
 		"build" : "HenrikNergaard 6/3/2018 19:48",
 		"build:" : "HenrikNergaard 6/3/2018 19:52",
 		"comparePreRelease:" : "HenrikNergaard 6/3/2018 23:48",
-		"fromString:" : "HenrikNergaard 6/3/2018 23:33",
+		"fromString:" : "HenrikNergaard 6/4/2018 22:37",
 		"hash" : "HenrikNergaard 6/3/2018 20:18",
 		"initialize" : "HenrikNergaard 6/3/2018 23:40",
 		"major" : "HenrikNergaard 6/3/2018 19:47",
@@ -29,7 +30,7 @@
 		"preRelease:" : "HenrikNergaard 6/3/2018 19:52",
 		"printOn:" : "HenrikNergaard 6/3/2018 20:01",
 		"storeOn:" : "HenrikNergaard 6/3/2018 23:50",
-		"threeWayCompareTo:" : "HenrikNergaard 6/3/2018 23:45",
+		"threeWayCompareTo:" : "HenrikNergaard 6/4/2018 22:28",
 		"~=" : "HenrikNergaard 6/3/2018 20:28"
 	},
 	"class" : {

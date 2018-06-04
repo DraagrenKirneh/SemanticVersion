@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"assert:versionEquals:" : "HenrikNergaard 6/4/2018 22:35",
+		"testComparison" : "HenrikNergaard 6/4/2018 22:48",
+		"testIncrement" : "HenrikNergaard 6/4/2018 22:34",
+		"testInitialize" : "HenrikNergaard 6/4/2018 22:32",
+		"testMinMax" : "HenrikNergaard 6/4/2018 22:43",
+		"testMinimalStrings" : "HenrikNergaard 6/4/2018 22:48",
+		"testPrecedence" : "HenrikNergaard 6/4/2018 22:10",
+		"testStringParsing" : "HenrikNergaard 6/4/2018 22:50",
+		"testThreeWayCompare" : "HenrikNergaard 6/4/2018 22:28",
+		"testWrongStrings" : "HenrikNergaard 6/4/2018 22:45"
+	},
+	"class" : { }
+}

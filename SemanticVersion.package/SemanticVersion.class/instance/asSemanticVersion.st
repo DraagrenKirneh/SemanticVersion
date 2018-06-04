@@ -1,0 +1,4 @@
+converting
+asSemanticVersion
+
+	^ self

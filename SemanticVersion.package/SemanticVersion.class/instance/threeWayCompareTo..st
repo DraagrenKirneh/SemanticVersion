@@ -3,7 +3,7 @@ threeWayCompareTo: aSemVer
 	
 	| result |
 	
-	self == aSemVer ifTrue: [ ^ 1 ].
+	self == aSemVer ifTrue: [ ^ 0 ].
 	
 	result := major threeWayCompareTo: aSemVer major.
 	result = 0 ifFalse: [ ^ result ].
